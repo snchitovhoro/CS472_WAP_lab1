@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../CS472_WAP_lab1\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\E5540\Desktop\MIU\edu\CS401 MPP\CS472_WAP_lab1\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
